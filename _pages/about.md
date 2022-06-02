@@ -14,5 +14,5 @@ I’m Ryo Umagami (馬上凌), a first-year master student at Machine Intelligen
 
 Education
 ======
-- M.S. in Mechano-Informatics[https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml], The University of Tokyo, 2022/04 - Present
-- B.S. in Mechano-Informatics[https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml], The University of Tokyo, 2018/04 - 2022/03
+- M.S. in [Mechano-Informatic](https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml), The University of Tokyo, 2022/04 - Present
+- B.S. in [Mechano-Informatics](https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml), The University of Tokyo, 2018/04 - 2022/03
