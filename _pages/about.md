@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I’m Ryo Umagami (馬上凌), a first-year master student at [Machine Intelligence Lab.](https://www.mi.t.u-tokyo.ac.jp/en), supervised by Professor [Tatsuya Harada](https://www.mi.t.u-tokyo.ac.jp/harada/) and Lecturer [Yusuke Mukuta](https://www.mi.t.u-tokyo.ac.jp/mukuta/index_ja.html). My research interest lies in machine learning, especially time series forecasting.
+I’m Ryo Umagami (馬上凌), a first-year master student at [Machine Intelligence Lab.](https://www.mi.t.u-tokyo.ac.jp/en), supervised by Professor [Tatsuya Harada](https://www.mi.t.u-tokyo.ac.jp/harada/) and Lecturer [Yusuke Mukuta](https://www.mi.t.u-tokyo.ac.jp/mukuta/index_ja.html](https://www.mi.t.u-tokyo.ac.jp/mukuta/)). My research interest lies in machine learning, especially time series forecasting.
 
 Education
 ======
