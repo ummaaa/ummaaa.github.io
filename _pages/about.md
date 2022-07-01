@@ -18,3 +18,10 @@ Education
 　　M.S. in [Mechano-Informatic](https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml), The University of Tokyo
 - April 2018 - March 2022<br>
 　　B.S. in [Mechano-Informatics](https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml), The University of Tokyo
+ 
+Development
+======
+- Online typing game<br>
+　https://github.com/ummaaa/nanja-type
+- Application to share travel or walking routes<br>
+　　https://github.com/asupara-to-asobou/root-share
