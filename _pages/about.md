@@ -21,5 +21,7 @@ Education
  
 Development
 ======
-- Online typing game: https://github.com/ummaaa/nanja-type
-- Application to share travel or walking routes: https://github.com/asupara-to-asobou/root-share
+- Online typing game<br>
+  https://github.com/ummaaa/nanja-type
+- Application to share travel or walking routes<br>
+  https://github.com/asupara-to-asobou/root-share
