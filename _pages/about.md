@@ -24,4 +24,4 @@ Development
 - Online typing game<br>
 　https://github.com/ummaaa/nanja-type
 - Application to share travel or walking routes<br>
-　　https://github.com/asupara-to-asobou/root-share
+　https://github.com/asupara-to-asobou/root-share
