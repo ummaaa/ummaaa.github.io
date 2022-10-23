@@ -18,8 +18,14 @@ Education
 　　M.S. in [Mechano-Informatics](https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml), The University of Tokyo
 - April 2018 - March 2022<br>
 　　B.S. in [Mechano-Informatics](https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml), The University of Tokyo
- 
+  
+Employment
+======
+- 2022/09 - 2022/10, Machine Learning Engineer Intern, [Matsuo Institue Inc.](https://matsuo-institute.com/)
+- 2022/10, Machine Learning Engineer Intern, [Money Forward, Inc.](https://corp.moneyforward.com/en/)
+
 Development
 ======
-- [Online typing game](https://github.com/ummaaa/nanja-type)
-- [Application to share travel or walking routes](https://github.com/asupara-to-asobou/root-share)
+- 2022/10, [AI-based SNS icon auto-generating web application](https://github.com/jphacks/B_2210)
+- 2022/06, [Application to share travel or walking routes](https://github.com/asupara-to-asobou/root-share)
+- 2022/05, [Online typing game](https://github.com/ummaaa/nanja-type)
