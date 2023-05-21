@@ -18,6 +18,11 @@ Education
 　　M.S. in [Mechano-Informatics](https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml), The University of Tokyo
 - April 2018 - March 2022<br>
 　　B.S. in [Mechano-Informatics](https://www.i.u-tokyo.ac.jp/edu/course/m-i/index_e.shtml), The University of Tokyo
+
+Preprint
+======
+- <u>Ryo Umagami</u>, Yu Ono, Yusuke Mukuta, Tatsuya Harada. HiPerformer: Hierarchically PermutationEquivariant Transformer for Time Series Forecasting, arXiv:2305.08073, 2023. [paper](https://arxiv.org/abs/2305.08073)
+  
   
 Employment
 ======
