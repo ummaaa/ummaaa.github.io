@@ -21,7 +21,7 @@ Education
 
 Preprint
 ======
-- <u>Ryo Umagami</u>, Yu Ono, Yusuke Mukuta, Tatsuya Harada. HiPerformer: Hierarchically PermutationEquivariant Transformer for Time Series Forecasting, arXiv:2305.08073, 2023. \[[paper](https://arxiv.org/abs/2305.08073)\]
+- <u>Ryo Umagami</u>, Yu Ono, Yusuke Mukuta, Tatsuya Harada. HiPerformer: Hierarchically Permutation-Equivariant Transformer for Time Series Forecasting, arXiv:2305.08073, 2023. \[[paper](https://arxiv.org/abs/2305.08073)\]
   
   
 Employment
